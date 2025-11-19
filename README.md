@@ -8,10 +8,13 @@
   
 - <b> Data Science </b>
   - Kaggle Competition - Predict Road Accident using XGBoost Algorithm.
- 
+<br>
 
-## Connect with me
-&nbsp;&nbsp;&nbsp;&nbsp; Currently you can only reach me via <a href="mailto:ddaniel.d714@gmail.com">E-mail</a>
+<hr>
+<img src="./Assets/rick2.png" align="left" width=150 height=150>
+
+<b> Connect with me </b> <br>
+Currently you can only reach me via <a href="mailto:ddaniel.d714@gmail.com">E-mail</a>
 
 <!--
 **DDanield7/DDanield7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
