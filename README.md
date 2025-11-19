@@ -11,7 +11,7 @@
 <br>
 
 <hr>
-<img src="./Assets/rick2.png" align="left" width=150 height=150>
+<img src="./Assets/rick.png" align="left" width=150 height=150>
 
 <b> Connect with me </b> <br>
 Currently you can only reach me via <a href="mailto:ddaniel.d714@gmail.com">E-mail</a>
