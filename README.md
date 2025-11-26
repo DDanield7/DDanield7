@@ -7,7 +7,7 @@
   - Finance Report on Power BI.
   
 - <b> Data Science </b>
-  - Kaggle Competition - Predict Road Accident using XGBoost Algorithm.
+  - <a id='https://github.com/DDanield7/Kaggle_Road_Accident_XGBoost'>Kaggle Competition - Predict Road Accident using XGBoost Algorithm.</a>
 <br>
 
 <hr>
