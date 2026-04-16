@@ -5,6 +5,8 @@
 - <b> Data Analyst </b>
   - Predict poverty in West Java and Banten, Indonesia.
   - Finance Report on Power BI.
+  - [Turkiye Mall Insight.](https://github.com/DDanield7/Turkiye_Mall_Insight)
+  - Turkiye Mall Dashboard.
   
 - <b> Data Science </b>
   - [Kaggle Competition - Predict Road Accident using XGBoost Algorithm.](https://github.com/DDanield7/Kaggle_Road_Accident_XGBoost)
